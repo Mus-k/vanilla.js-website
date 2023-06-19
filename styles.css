@@ -347,11 +347,11 @@ header ul li ul li ul {
 
 @media only screen and (max-width: 600px) {
   .prev {
-    left: 50px;
+    left: 30px;
   }
 
   .next {
-    right: 50px;
+    right: 30px;
   }
   .slide h2 {
     font-weight: bold;
@@ -679,7 +679,7 @@ header ul li ul li ul {
   width: 65%;
   height: 58%;
   margin: 5% auto;
-  margin-top: 100px;
+  margin-top: 200px;
 }
 
 .lightbox-content img {
